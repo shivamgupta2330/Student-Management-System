@@ -41,5 +41,5 @@ Better UI with JavaFX
 Shivam Gupta
 BCA Student | Java Learner
 
-GitHub:
+GitHub: (https://github.com/shivamgupta2330)
 
